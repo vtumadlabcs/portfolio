@@ -1,44 +1,58 @@
-# vCard - Personal portfolio
+<h1 align="center">Welcome to <a href="https://Varshithvhegde.github.io">My Portfolio</a> 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="#" target="_blank">
+    <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
+  </a>
+</p>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+This is a [Portfolio website](https://Varshithvhegde.github.io) made using HTML, CSS, Javascript.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
-## Demo
+## About Me
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+- Name: Varshith V Hegde
+- Age: 21
+- Location: Bangalore, India
+- I am a Engineering student at Mangalore Institute of Technology and Engineering and pursuing my B.E. in Computer Science and Engineering.
+- I am a self taught web developer and android developer. 
+- [My Portfolio](https://Varshithvhegde.github.io) is a website that I made to showcase my skills and projects.
 
-## Prerequisites
 
-Before you begin, ensure you have met the following requirements:
+## Skills
+- HTML
+-  CSS
+- Javascript
+- Java
+- Android
+- Android Studio
+- Visual Studio Code
+- Git
+- Github
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-## Installing vCard
+## Description of the project
 
-To install **vCard**, follow these steps:
+- This is a portfolio website made using HTML, CSS, Javascript.
+- This website provides information about me and my projects.
 
-Linux and macOS:
 
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
 
-Windows:
+## Screenshots
 
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+![frame_generic_dark (1)](https://user-images.githubusercontent.com/80502833/186155558-28897e13-8e52-4741-8a8b-1b28b168e1af.png)
+![frame_generic_dark (2)](https://user-images.githubusercontent.com/80502833/186155372-99a3b52a-119e-4a03-939f-0ddc85d28966.png)
+![frame_generic_dark (3)](https://user-images.githubusercontent.com/80502833/186155382-8e45f116-d4cd-44a8-9d07-c6d4271932aa.png)
 
-## Contact
+## Show your support
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+Give a ⭐️ if this project helped you!
 
-## License
 
-This project is **free to use** and does not contains any license.
+***
+
+
+
+
+ 
+
